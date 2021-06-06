@@ -1,4 +1,4 @@
-# PredictMyStock
+# stockmarketprediction
 
  A Stock Market Prediction Web App in Django using Quandl API and Linear Regression. Using Quandl API, I fetched stock market values from the date since the company is IPO. 
 
