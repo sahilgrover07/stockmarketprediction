@@ -16,7 +16,7 @@ DateTime==4.3
 ### Steps to Execute 
 #### 1. clone the repository 
 
-#### 2. cd into PredictMyStock 
+#### 2. cd into stockmarketprediction 
 ```bash
 cd stockmarketprediction
 ```
