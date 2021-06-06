@@ -18,7 +18,7 @@ DateTime==4.3
 
 #### 2. cd into PredictMyStock 
 ```bash
-cd PredictMyStock
+cd stockmarketprediction
 ```
 #### 3. Create virtual environment 
 ```bash
