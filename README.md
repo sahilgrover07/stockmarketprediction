@@ -16,10 +16,7 @@ DateTime==4.3
 
 
 ### Steps to Execute 
-#### 1. Git clone PredictMyStock 
-```bash
-git clone https://github.com/adityaborgaonkar/PredictMyStock.git
-```
+
 #### 2. cd into PredictMyStock 
 ```bash
 cd PredictMyStock
