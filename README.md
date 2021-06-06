@@ -17,6 +17,7 @@ DateTime==4.3
 #### 1. clone the repository 
 ```bash
 cd PredictMyStock
+'''
 #### 2. cd into PredictMyStock 
 ```bash
 cd PredictMyStock
